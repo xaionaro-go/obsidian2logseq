@@ -1,1 +1,1 @@
-Don't use it. I made it only to convert https://github.com/xaionaro/destiny-obsidian into logseq files for my personal logseq graph.
+Don't use it. I made it only to convert https://github.com/xaionaro/destiny-obsidian into logseq files for my personal logseq graph. You may find the result of the conversion here: https://github.com/xaionaro/destiny-logseq
